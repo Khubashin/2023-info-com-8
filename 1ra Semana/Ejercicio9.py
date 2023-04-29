@@ -1,0 +1,6 @@
+a=int(input('Escriba un numero: '))
+b=int(input('Escriba otro numero: '))
+print(f'La Suma de {a} y {b} es: {a+b}')
+print(f'La Resta de {a} y {b} es: {a-b}')
+print(f'La Multiplicacion de {a} y {b} es: {a*b}')
+print(f'La Division de {a} y {b} es: {a/b}')
